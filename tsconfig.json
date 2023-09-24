@@ -1,0 +1,5 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "compilerOptions": { "paths": { "@/*": ["./src/*"] } },
+  "include": ["**/*.ts", "**/*.vue", "**/*.md", "global.d.ts"]
+}

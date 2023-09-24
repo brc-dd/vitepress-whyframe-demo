@@ -1,0 +1,4 @@
+{
+  "vue.server.vitePress.supportMdFile": true,
+  "css.lint.unknownAtRules": "ignore"
+}
